@@ -19,7 +19,7 @@ resource "aws_s3_bucket" "exemplo" {
 
   tags = {
 
-    Name = "Meu bucket-0007br"
+    Name = "Meu-repo-bucket-0007br"
 
     Environment = "Dev"
 
@@ -27,7 +27,7 @@ resource "aws_s3_bucket" "exemplo" {
 
     Owner = "JoaoPaulo"
 
-    UpdateAt = "08/04/24"
+    UpdateAt = "09/04/24"
   }
 }
  
